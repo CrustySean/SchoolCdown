@@ -1,3 +1,5 @@
+<link href='https://fonts.googleapis.com/css?family=Averia Sans Libre' rel='stylesheet'>
+
 body {
      background-image: url("cool-background.png");
      background-repeat:no-repeat;
@@ -5,29 +7,29 @@ body {
 }
  h1 {
      text-align: center;
-     font-family: 'Times New Roman', Times, serif;
+     font-family: 'Averia Sans Libre';
      font-size: 75px;
-     color: white;
+     color: black;
 }
  h2 {
      text-align: center;
-     font-family: 'Times New Roman', Times, serif;
+     font-family: 'Averia Sans Libre';
      font-size: 50px;
-     color: white;
+     color: yellow;
 }
  a {
-     color:white 
+     color:black 
 }
  p {
-     font-family: 'Times New Roman', Times, serif;
+     font-family: 'Averia Sans Libre';
      font-size: 42px;
-     color: white;
+     color: black;
 }
  .bottomleft {
      position: absolute;
-     color: white;
+     color: black;
      font-size: 30px;
      bottom: 8px;
      left: 16px;
-     font-family: 'Times New Roman', Times, serif;
+     font-family: 'Averia Sans Libre';
 }
