@@ -5,7 +5,7 @@
 
  <link rel = "stylesheet" type = "text/css" href = "style.css" />
 
-  <p>This timer shows a real time timer that shows how many days/hours/minutes/secon missds</p>
+  <p>A real time timer that shows how many days/hours/minutes/seconds miss until the last day of school</p>
   
   <p id="demo"></p>
 
@@ -29,8 +29,8 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
   // Display the result in the element with id="demo"
-  <h2>document.getElementById("demo").innerHTML = days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s "<h2>;
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
 
   // If the count down is finished, write some text 
   if (distance < 0) {
