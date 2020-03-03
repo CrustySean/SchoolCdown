@@ -1,1 +1,1 @@
-## Real HTML timer for the time that miss for the finish of the school
+## Real HTML timer for the time that miss until the finish of the school
